@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: cadetblue;
+    margin: 10px;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    float: left;
+    display: block;
+    color: azure;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 40px;
+}
+.main{
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
+}
